@@ -1,0 +1,5 @@
+git "https://gitlab.facile.it/cmiranti/ExtraFoundation.git" "1c211514f2af0991eaa6004c4b76b246117e67ff"
+git "https://gitlab.facile.it/cmiranti/Reporting.git" "cb05799e3dd430f3ecc4c2e1b971d23e9687a3c8"
+github "facile-it/FunctionalKit" "0.5.0"
+github "facile-it/NetworkingKit" "1.0.7"
+github "typelift/Abstract" "0.0.2"

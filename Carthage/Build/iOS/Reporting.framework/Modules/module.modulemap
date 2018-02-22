@@ -1,0 +1,4 @@
+framework module Reporting {
+    header "Reporting-Swift.h"
+    requires objc
+}

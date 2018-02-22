@@ -1,0 +1,9 @@
+{
+  "commitish" : "1c211514f2af0991eaa6004c4b76b246117e67ff",
+  "iOS" : [
+    {
+      "name" : "ExtraFoundation",
+      "hash" : "09f184fdc27ad11e55a51898f16ab2db9774353a648ac947321b7d188d531c74"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+framework module ExtraFoundation {
+    header "ExtraFoundation-Swift.h"
+    requires objc
+}
